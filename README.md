@@ -15,7 +15,7 @@ Each episode is short, practical, and full of tips. Think of it as a **Netflix s
 - Mini text editor project  
 - `__str__` vs `__repr__`  
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<your-username>/oop-funland/blob/main/season1.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aminsystem/oop-funland/blob/main/season1.ipynb)
 
 ---
 
@@ -28,7 +28,7 @@ Each episode is short, practical, and full of tips. Think of it as a **Netflix s
 - Real-world twists: audio files, molecules, contact lists  
 - Operator overloading with sets & lists  
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<your-username>/oop-funland/blob/main/season2.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aminsystem/oop-funland/blob/main/season2.ipynb)
 
 ---
 
