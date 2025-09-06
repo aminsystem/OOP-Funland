@@ -28,7 +28,7 @@ Each episode is short, practical, and full of tips. Think of it as a **Netflix s
 - Real-world twists: audio files, molecules, contact lists  
 - Operator overloading with sets & lists  
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aminsystem/oop-funland/blob/main/OOP_Funland_Season_1.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aminsystem/oop-funland/blob/main/OOP_Funland_Season_2.ipynb)
 
 ---
 
